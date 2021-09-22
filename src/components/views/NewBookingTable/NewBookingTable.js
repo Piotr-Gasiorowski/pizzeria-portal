@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './NewBookingTable.modules.scss';
+import styles from './NewBookingTable.module.scss';
 
 const NewBookingTable = () => (
   <div className={styles.component}>
